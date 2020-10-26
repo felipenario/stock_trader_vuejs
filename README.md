@@ -1,5 +1,9 @@
 # stock-trader
 
+Projeto sobre compra e venda de ações feito em VueJS(Vuetify, Axios, VueRouter, Vuex) + Firebase como forma de atividade de um curso de VueJS.
+
+<img src="assets/projectImage.png"> 
+
 ## Project setup
 ```
 npm install
